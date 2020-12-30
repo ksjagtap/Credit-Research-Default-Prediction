@@ -1,0 +1,31 @@
+,Variable Name,Data Type,Variable Description
+0,gvkey,CHAR,GVKEY -- Global Company Key
+1,datadate,,
+2,conm,CHAR,Company Name
+3,at,NUM,AT -- Assets - Total
+4,cogs,NUM,COGS -- Cost of Goods Sold
+5,csho,NUM,CSHO -- Common Shares Outstanding
+6,dvp,NUM,DVP -- Dividends - Preferred/Preference
+7,ebit,NUM,EBIT -- Earnings Before Interest and Taxes
+8,gp,NUM,GP -- Gross Profit (Loss)
+9,ib,NUM,IB -- Income Before Extraordinary Items
+10,lct,NUM,LCT -- Current Liabilities - Total
+11,lt,NUM,LT -- Liabilities - Total
+12,ni,NUM,NI -- Net Income (Loss)
+13,niadj,NUM,NIADJ -- Net Income Adjusted for Common/Ordinary Stock (Capital) Equivalents
+14,oiadp,NUM,OIADP -- Operating Income After Depreciation
+15,pi,NUM,PI -- Pretax Income
+16,re,NUM,RE -- Retained Earnings
+17,revt,NUM,REVT -- Revenue - Total
+18,sale,NUM,SALE -- Sales/Turnover (Net)
+19,wcap,NUM,WCAP -- Working Capital (Balance Sheet)
+20,xido,NUM,XIDO -- Extraordinary Items and Discontinued Operations
+21,xopr,NUM,XOPR -- Operating Expenses Total
+22,mkvalt,NUM,MKVALT -- Market Value - Total - Fiscal
+23,sic,CHAR,SIC -- Standard Industry Classification Code
+24,bankrupt,,
+25,Altman_X1,,
+26,Altman_X2,,
+27,Altman_X3,,
+28,Altman_X4,,
+29,Altman_X5,,
